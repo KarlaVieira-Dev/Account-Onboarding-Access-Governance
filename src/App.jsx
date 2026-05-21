@@ -16,7 +16,7 @@ import {
   Users,
   X,
 } from 'lucide-react';
-import { useMemo, useState } from 'react';
+import React, { useMemo, useState } from 'react';
 import {
   initialAuditEvents,
   initialClients,
